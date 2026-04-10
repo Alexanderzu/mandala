@@ -12,15 +12,3 @@ To truly understand how it works, why don't you try and build it yourself? This 
 
 ## Community
 I opened this [Facebook group](https://www.facebook.com/groups/930599883741534/) for you to show off all your cool drawings.
-
-## My work
-[My web portfolio](http://hagarsh.com/)
-<br>
-[My MediaWiki user page](https://www.mediawiki.org/wiki/User:Hagarshilo)
-
-## Blogging
-[Medium](https://medium.com/@strayblues/) - English
-<br>
-[WordPress](https://blog.hagarsh.com/) - Hebrew
-<br>
-[TheMarker](https://www.themarker.com/techblogs/anonymous-function) - Hebrew
